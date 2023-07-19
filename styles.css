@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+}
+
+.lenguages-container{
+    text-align: center;
+    margin-bottom: 30px;
+    
+    
+}
+.translateFrom{
+    
+}
+.translateTo{
+    
+}
+.result-container{
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.seccion{
+    width: 680px;
+    display: flex;
+    flex-direction: column;
+}
